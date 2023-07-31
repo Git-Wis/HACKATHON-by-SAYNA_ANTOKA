@@ -1,4 +1,4 @@
-<img width="164" alt="image" src="https://github.com/Git-Wis/HACKATHON-by-SAYNA_ANTOKA/assets/103794246/4ef472ee-e98f-4417-9799-7bdcb0c144a4"># HACKATHON-by-SAYNA_ANTOKA
+# HACKATHON-by-SAYNA_ANTOKA
 
 Pitch de Decouvert sur le projet Antoka ! au HACKTHON  de SAYNA 
 
